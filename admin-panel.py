@@ -71,7 +71,7 @@ if key==secim7:
 
 else: 
     print("Giriş key'i bulunmamaktadır lütfen tekrar deneyiniz! ")
-    exit()
+    
  
 
 
